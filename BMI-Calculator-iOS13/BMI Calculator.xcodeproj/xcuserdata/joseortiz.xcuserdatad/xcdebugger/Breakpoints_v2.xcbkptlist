@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D5A8CCAE-236F-4DED-8D41-6E38084A9F53"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B5E897F8-C010-4C2F-9870-B0873F1D07B0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BMI Calculator/Controllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "CalculateViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "B5E897F8-C010-4C2F-9870-B0873F1D07B0 - d598ed9dcc5c1458"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_Calculator.ViewController.weightLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "BMI Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joseortiz/Developer/projects/tutorials/ios/udemy-angela-yu/BMI-Calculator-iOS13/BMI%20Calculator/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "B5E897F8-C010-4C2F-9870-B0873F1D07B0 - 1d1c3ab19b64b84c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_Calculator.ViewController.weightLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "BMI Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joseortiz/Developer/projects/tutorials/ios/udemy-angela-yu/BMI-Calculator-iOS13/BMI%20Calculator/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "B5E897F8-C010-4C2F-9870-B0873F1D07B0 - 114e550ce5d7f5f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_Calculator.ViewController.weightLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "BMI Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joseortiz/Developer/projects/tutorials/ios/udemy-angela-yu/BMI-Calculator-iOS13/BMI%20Calculator/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "B5E897F8-C010-4C2F-9870-B0873F1D07B0 - d6a1ec3fd39e4991"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_Calculator.ViewController.weightLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "BMI Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joseortiz/Developer/projects/tutorials/ios/udemy-angela-yu/BMI-Calculator-iOS13/BMI%20Calculator/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "B5E897F8-C010-4C2F-9870-B0873F1D07B0 - 9e0fbcdc94264b65"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_Calculator.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; BMI_Calculator.ViewController"
+                  moduleName = "BMI Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joseortiz/Developer/projects/tutorials/ios/udemy-angela-yu/BMI-Calculator-iOS13/BMI%20Calculator/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "190">
+               </Location>
+               <Location
+                  uuid = "B5E897F8-C010-4C2F-9870-B0873F1D07B0 - 16743d3d397f9ea1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_Calculator.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;BMI_Calculator.ViewController&gt;"
+                  moduleName = "BMI Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joseortiz/Developer/projects/tutorials/ios/udemy-angela-yu/BMI-Calculator-iOS13/BMI%20Calculator/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "147">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "81223EAF-908D-481E-964F-31CA4861F526"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BMI Calculator/Controllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "CalculateViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "81223EAF-908D-481E-964F-31CA4861F526 - 88db1af789056102"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_Calculator.ViewController.weightSlider.getter : Swift.Optional&lt;__C.UISlider&gt;"
+                  moduleName = "BMI Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joseortiz/Developer/projects/tutorials/ios/udemy-angela-yu/BMI-Calculator-iOS13/BMI%20Calculator/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "81223EAF-908D-481E-964F-31CA4861F526 - 9467621f0b7296f6"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_Calculator.ViewController.weightSlider.setter : Swift.Optional&lt;__C.UISlider&gt;"
+                  moduleName = "BMI Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joseortiz/Developer/projects/tutorials/ios/udemy-angela-yu/BMI-Calculator-iOS13/BMI%20Calculator/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "81223EAF-908D-481E-964F-31CA4861F526 - 521444ca0f228505"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_Calculator.ViewController.weightSlider.modify : Swift.Optional&lt;__C.UISlider&gt;"
+                  moduleName = "BMI Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joseortiz/Developer/projects/tutorials/ios/udemy-angela-yu/BMI-Calculator-iOS13/BMI%20Calculator/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "81223EAF-908D-481E-964F-31CA4861F526 - 3ed614dd6eaa07db"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_Calculator.ViewController.weightSlider.modify : Swift.Optional&lt;__C.UISlider&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "BMI Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joseortiz/Developer/projects/tutorials/ios/udemy-angela-yu/BMI-Calculator-iOS13/BMI%20Calculator/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "81223EAF-908D-481E-964F-31CA4861F526 - 9e0fbcdc94264b27"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_Calculator.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; BMI_Calculator.ViewController"
+                  moduleName = "BMI Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joseortiz/Developer/projects/tutorials/ios/udemy-angela-yu/BMI-Calculator-iOS13/BMI%20Calculator/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "276">
+               </Location>
+               <Location
+                  uuid = "81223EAF-908D-481E-964F-31CA4861F526 - 16743d3d397f9ee3"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_Calculator.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;BMI_Calculator.ViewController&gt;"
+                  moduleName = "BMI Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joseortiz/Developer/projects/tutorials/ios/udemy-angela-yu/BMI-Calculator-iOS13/BMI%20Calculator/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "233">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

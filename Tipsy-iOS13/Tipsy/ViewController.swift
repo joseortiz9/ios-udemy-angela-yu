@@ -1,9 +1,9 @@
 //
 //  ViewController.swift
-//  BMI Calculator
+//  Tipsy
 //
-//  Created by Angela Yu on 21/08/2019.
-//  Copyright © 2019 Angela Yu. All rights reserved.
+//  Created by Angela Yu on 09/09/2019.
+//  Copyright © 2019 The App Brewery. All rights reserved.
 //
 
 import UIKit
