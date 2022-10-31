@@ -7,29 +7,29 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		ADB689532326708D006D4E2B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB689522326708D006D4E2B /* AppDelegate.swift */; };
-		ADB689552326708D006D4E2B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB689542326708D006D4E2B /* SceneDelegate.swift */; };
-		ADB689572326708D006D4E2B /* CalculatorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADB689562326708D006D4E2B /* CalculatorViewController.swift */; };
-		ADB6895A2326708D006D4E2B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ADB689582326708D006D4E2B /* Main.storyboard */; };
-		ADB6895C2326708E006D4E2B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ADB6895B2326708E006D4E2B /* Assets.xcassets */; };
-		ADB6895F2326708E006D4E2B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ADB6895D2326708E006D4E2B /* LaunchScreen.storyboard */; };
-		DDDB8658290BFCDA003CB0FC /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDDB8657290BFCDA003CB0FC /* ResultViewController.swift */; };
+		ADA8AC092329367100626376 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA8AC082329367100626376 /* AppDelegate.swift */; };
+		ADA8AC0B2329367100626376 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA8AC0A2329367100626376 /* SceneDelegate.swift */; };
+		ADA8AC0D2329367100626376 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA8AC0C2329367100626376 /* ViewController.swift */; };
+		ADA8AC102329367100626376 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ADA8AC0E2329367100626376 /* Main.storyboard */; };
+		ADA8AC122329367300626376 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ADA8AC112329367300626376 /* Assets.xcassets */; };
+		ADA8AC152329367300626376 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ADA8AC132329367300626376 /* LaunchScreen.storyboard */; };
+		ADA8AC202329398300626376 /* CoinManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA8AC1F2329398300626376 /* CoinManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		ADB6894F2326708D006D4E2B /* Tipsy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tipsy.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		ADB689522326708D006D4E2B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		ADB689542326708D006D4E2B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		ADB689562326708D006D4E2B /* CalculatorViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorViewController.swift; sourceTree = "<group>"; };
-		ADB689592326708D006D4E2B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		ADB6895B2326708E006D4E2B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		ADB6895E2326708E006D4E2B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		ADB689602326708E006D4E2B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		DDDB8657290BFCDA003CB0FC /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
+		ADA8AC052329367100626376 /* ByteCoin.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ByteCoin.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		ADA8AC082329367100626376 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		ADA8AC0A2329367100626376 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		ADA8AC0C2329367100626376 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		ADA8AC0F2329367100626376 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		ADA8AC112329367300626376 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		ADA8AC142329367300626376 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		ADA8AC162329367300626376 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ADA8AC1F2329398300626376 /* CoinManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		ADB6894C2326708D006D4E2B /* Frameworks */ = {
+		ADA8AC022329367100626376 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -39,89 +39,97 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		ADB689462326708D006D4E2B = {
+		ADA8ABFC2329367100626376 = {
 			isa = PBXGroup;
 			children = (
-				ADB689512326708D006D4E2B /* Tipsy */,
-				ADB689502326708D006D4E2B /* Products */,
+				ADA8AC072329367100626376 /* ByteCoin */,
+				ADA8AC062329367100626376 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		ADB689502326708D006D4E2B /* Products */ = {
+		ADA8AC062329367100626376 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				ADB6894F2326708D006D4E2B /* Tipsy.app */,
+				ADA8AC052329367100626376 /* ByteCoin.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		ADB689512326708D006D4E2B /* Tipsy */ = {
+		ADA8AC072329367100626376 /* ByteCoin */ = {
 			isa = PBXGroup;
 			children = (
-				ADB689522326708D006D4E2B /* AppDelegate.swift */,
-				ADB689542326708D006D4E2B /* SceneDelegate.swift */,
-				DDDB8659290BFCE2003CB0FC /* Controllers */,
-				DDDB865A290BFD57003CB0FC /* Views */,
-				ADB6895B2326708E006D4E2B /* Assets.xcassets */,
-				ADB6895D2326708E006D4E2B /* LaunchScreen.storyboard */,
-				ADB689602326708E006D4E2B /* Info.plist */,
+				ADA8AC082329367100626376 /* AppDelegate.swift */,
+				ADA8AC0A2329367100626376 /* SceneDelegate.swift */,
+				ADA8AC1E2329370F00626376 /* Model */,
+				ADA8AC1D2329370700626376 /* Controller */,
+				ADA8AC1C232936FE00626376 /* View */,
+				ADA8AC112329367300626376 /* Assets.xcassets */,
+				ADA8AC132329367300626376 /* LaunchScreen.storyboard */,
+				ADA8AC162329367300626376 /* Info.plist */,
 			);
-			path = Tipsy;
+			path = ByteCoin;
 			sourceTree = "<group>";
 		};
-		DDDB8659290BFCE2003CB0FC /* Controllers */ = {
+		ADA8AC1C232936FE00626376 /* View */ = {
 			isa = PBXGroup;
 			children = (
-				ADB689562326708D006D4E2B /* CalculatorViewController.swift */,
-				DDDB8657290BFCDA003CB0FC /* ResultViewController.swift */,
+				ADA8AC0E2329367100626376 /* Main.storyboard */,
 			);
-			path = Controllers;
+			path = View;
 			sourceTree = "<group>";
 		};
-		DDDB865A290BFD57003CB0FC /* Views */ = {
+		ADA8AC1D2329370700626376 /* Controller */ = {
 			isa = PBXGroup;
 			children = (
-				ADB689582326708D006D4E2B /* Main.storyboard */,
+				ADA8AC0C2329367100626376 /* ViewController.swift */,
 			);
-			path = Views;
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		ADA8AC1E2329370F00626376 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				ADA8AC1F2329398300626376 /* CoinManager.swift */,
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		ADB6894E2326708D006D4E2B /* Tipsy */ = {
+		ADA8AC042329367100626376 /* ByteCoin */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = ADB689632326708E006D4E2B /* Build configuration list for PBXNativeTarget "Tipsy" */;
+			buildConfigurationList = ADA8AC192329367300626376 /* Build configuration list for PBXNativeTarget "ByteCoin" */;
 			buildPhases = (
-				ADB6894B2326708D006D4E2B /* Sources */,
-				ADB6894C2326708D006D4E2B /* Frameworks */,
-				ADB6894D2326708D006D4E2B /* Resources */,
+				ADA8AC012329367100626376 /* Sources */,
+				ADA8AC022329367100626376 /* Frameworks */,
+				ADA8AC032329367100626376 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = Tipsy;
-			productName = Tipsy;
-			productReference = ADB6894F2326708D006D4E2B /* Tipsy.app */;
+			name = ByteCoin;
+			productName = ByteCoin;
+			productReference = ADA8AC052329367100626376 /* ByteCoin.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		ADB689472326708D006D4E2B /* Project object */ = {
+		ADA8ABFD2329367100626376 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1100;
 				LastUpgradeCheck = 1100;
 				ORGANIZATIONNAME = "The App Brewery";
 				TargetAttributes = {
-					ADB6894E2326708D006D4E2B = {
+					ADA8AC042329367100626376 = {
 						CreatedOnToolsVersion = 11.0;
 					};
 				};
 			};
-			buildConfigurationList = ADB6894A2326708D006D4E2B /* Build configuration list for PBXProject "Tipsy" */;
+			buildConfigurationList = ADA8AC002329367100626376 /* Build configuration list for PBXProject "ByteCoin" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -129,56 +137,56 @@
 				en,
 				Base,
 			);
-			mainGroup = ADB689462326708D006D4E2B;
-			productRefGroup = ADB689502326708D006D4E2B /* Products */;
+			mainGroup = ADA8ABFC2329367100626376;
+			productRefGroup = ADA8AC062329367100626376 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				ADB6894E2326708D006D4E2B /* Tipsy */,
+				ADA8AC042329367100626376 /* ByteCoin */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		ADB6894D2326708D006D4E2B /* Resources */ = {
+		ADA8AC032329367100626376 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				ADB6895F2326708E006D4E2B /* LaunchScreen.storyboard in Resources */,
-				ADB6895C2326708E006D4E2B /* Assets.xcassets in Resources */,
-				ADB6895A2326708D006D4E2B /* Main.storyboard in Resources */,
+				ADA8AC152329367300626376 /* LaunchScreen.storyboard in Resources */,
+				ADA8AC122329367300626376 /* Assets.xcassets in Resources */,
+				ADA8AC102329367100626376 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		ADB6894B2326708D006D4E2B /* Sources */ = {
+		ADA8AC012329367100626376 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				ADB689572326708D006D4E2B /* CalculatorViewController.swift in Sources */,
-				ADB689532326708D006D4E2B /* AppDelegate.swift in Sources */,
-				ADB689552326708D006D4E2B /* SceneDelegate.swift in Sources */,
-				DDDB8658290BFCDA003CB0FC /* ResultViewController.swift in Sources */,
+				ADA8AC202329398300626376 /* CoinManager.swift in Sources */,
+				ADA8AC0D2329367100626376 /* ViewController.swift in Sources */,
+				ADA8AC092329367100626376 /* AppDelegate.swift in Sources */,
+				ADA8AC0B2329367100626376 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		ADB689582326708D006D4E2B /* Main.storyboard */ = {
+		ADA8AC0E2329367100626376 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				ADB689592326708D006D4E2B /* Base */,
+				ADA8AC0F2329367100626376 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		ADB6895D2326708E006D4E2B /* LaunchScreen.storyboard */ = {
+		ADA8AC132329367300626376 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				ADB6895E2326708E006D4E2B /* Base */,
+				ADA8AC142329367300626376 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -186,7 +194,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		ADB689612326708E006D4E2B /* Debug */ = {
+		ADA8AC172329367300626376 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -246,7 +254,7 @@
 			};
 			name = Debug;
 		};
-		ADB689622326708E006D4E2B /* Release */ = {
+		ADA8AC182329367300626376 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -300,34 +308,36 @@
 			};
 			name = Release;
 		};
-		ADB689642326708E006D4E2B /* Debug */ = {
+		ADA8AC1A2329367300626376 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = Tipsy/Info.plist;
+				DEVELOPMENT_TEAM = 3ECFYJZ64T;
+				INFOPLIST_FILE = ByteCoin/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = co.appbrewery.Tipsy;
+				PRODUCT_BUNDLE_IDENTIFIER = co.appbrewery.ByteCoin;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		ADB689652326708E006D4E2B /* Release */ = {
+		ADA8AC1B2329367300626376 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = Tipsy/Info.plist;
+				DEVELOPMENT_TEAM = 3ECFYJZ64T;
+				INFOPLIST_FILE = ByteCoin/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = co.appbrewery.Tipsy;
+				PRODUCT_BUNDLE_IDENTIFIER = co.appbrewery.ByteCoin;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -337,25 +347,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		ADB6894A2326708D006D4E2B /* Build configuration list for PBXProject "Tipsy" */ = {
+		ADA8AC002329367100626376 /* Build configuration list for PBXProject "ByteCoin" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				ADB689612326708E006D4E2B /* Debug */,
-				ADB689622326708E006D4E2B /* Release */,
+				ADA8AC172329367300626376 /* Debug */,
+				ADA8AC182329367300626376 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		ADB689632326708E006D4E2B /* Build configuration list for PBXNativeTarget "Tipsy" */ = {
+		ADA8AC192329367300626376 /* Build configuration list for PBXNativeTarget "ByteCoin" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				ADB689642326708E006D4E2B /* Debug */,
-				ADB689652326708E006D4E2B /* Release */,
+				ADA8AC1A2329367300626376 /* Debug */,
+				ADA8AC1B2329367300626376 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = ADB689472326708D006D4E2B /* Project object */;
+	rootObject = ADA8ABFD2329367100626376 /* Project object */;
 }
